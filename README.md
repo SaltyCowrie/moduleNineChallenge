@@ -1,9 +1,9 @@
-##title ReadMe Generator 
+## title ReadME Generator 
 
-  ##Description Node based ReadME Generator that uses node, inquirer and markdown to create a ReadMe file 
+  ## Description Web app that uses node to create ReadMe files 
  
-  ##Goal To automatically create ReadMEe's 
+  ## Goal To use node to automatically create ReadME files 
 
-  ##Credit Myself 
+  ## Credit Myself 
 
-  ##License MIT 
+  ## License MIT 
