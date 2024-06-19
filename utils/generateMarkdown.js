@@ -15,11 +15,11 @@ function generateMarkdown(data) {
   console.log(data)
 
   const readMeData = 
-  `##title ${data.Title} \n
-  ##Description ${data.Description} \n 
-  ##Goal ${data.Goal} \n
-  ##Credit ${data.Credit} \n
-  ##License ${data.License} \n`
+  `## title ${data.Title} \n
+  ## Description ${data.Description} \n 
+  ## Goal ${data.Goal} \n
+  ## Credit ${data.Credit} \n
+  ## License ${data.License} \n`
 
   return readMeData;
 };
